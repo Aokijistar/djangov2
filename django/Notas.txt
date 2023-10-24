@@ -1,0 +1,19 @@
+python manage.py migrate
+python manage.py runserver
+
+
+Si hay error de contraseña correr
+python manage.py createsuperuser
+Y nuevamente los dos comandos anteriores
+
+nombre de usuario: a.mendoza058@ebc.edu.mx
+correo: a.mendoza058@ebc.edu.mx
+contraseña: 123456
+
+1:04 hrs
+
+
+
+Ubuntu
+arturomendoza
+123456 
